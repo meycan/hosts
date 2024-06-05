@@ -2,9 +2,6 @@
 
 User contributed notes on various web host that play well or don't play with with Statamic. Send your pull requests, no affiliate links!
 
-## PHP Versions by Host
-<http://phpversions.info/shared-hosting/>
-
 ## Hosts that play nice
 
 These guys work well with Statamic right out of the box.
